@@ -1,6 +1,6 @@
-package com.tech.hello.hello.validator;
+package com.tech.hello.validator;
 
-import com.tech.hello.hello.exception.HelloException;
+import com.tech.hello.exception.HelloException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

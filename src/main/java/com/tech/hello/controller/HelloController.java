@@ -1,8 +1,8 @@
-package com.tech.hello.hello.controller;
+package com.tech.hello.controller;
 
-import com.tech.hello.hello.exception.HelloException;
-import com.tech.hello.hello.model.Hello;
-import com.tech.hello.hello.service.HelloService;
+import com.tech.hello.exception.HelloException;
+import com.tech.hello.model.Hello;
+import com.tech.hello.service.HelloService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

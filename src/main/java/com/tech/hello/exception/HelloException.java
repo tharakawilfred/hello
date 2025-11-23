@@ -1,4 +1,4 @@
-package com.tech.hello.hello.exception;
+package com.tech.hello.exception;
 
 import lombok.Data;
 

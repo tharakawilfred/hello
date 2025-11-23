@@ -1,9 +1,8 @@
-package com.tech.hello.hello.service;
+package com.tech.hello.service;
 
-import com.tech.hello.hello.exception.HelloException;
-import com.tech.hello.hello.model.Hello;
-import com.tech.hello.hello.validator.HelloValidator;
-import io.micrometer.common.util.StringUtils;
+import com.tech.hello.exception.HelloException;
+import com.tech.hello.model.Hello;
+import com.tech.hello.validator.HelloValidator;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

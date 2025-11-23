@@ -1,4 +1,4 @@
-package com.tech.hello.hello.model;
+package com.tech.hello.model;
 
 import lombok.Data;
 

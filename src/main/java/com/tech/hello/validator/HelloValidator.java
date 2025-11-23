@@ -1,6 +1,6 @@
-package com.tech.hello.hello.validator;
+package com.tech.hello.validator;
 
-import com.tech.hello.hello.exception.HelloException;
+import com.tech.hello.exception.HelloException;
 import io.micrometer.common.util.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;

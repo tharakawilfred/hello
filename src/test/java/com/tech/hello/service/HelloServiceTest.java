@@ -1,8 +1,8 @@
-package com.tech.hello.hello.service;
+package com.tech.hello.service;
 
-import com.tech.hello.hello.exception.HelloException;
-import com.tech.hello.hello.model.Hello;
-import com.tech.hello.hello.validator.HelloValidator;
+import com.tech.hello.exception.HelloException;
+import com.tech.hello.model.Hello;
+import com.tech.hello.validator.HelloValidator;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
